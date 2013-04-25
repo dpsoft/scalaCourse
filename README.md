@@ -1,2 +1,2 @@
-scalaCourse
-===========
+Scala Course
+============
